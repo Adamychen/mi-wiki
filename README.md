@@ -12,9 +12,9 @@ Este sitio está hecho con **GitHub Pages** y archivos **Markdown**.
 - [Machine Learning](./definiciones/machine-learning.md)
 - [Redes Neuronales](./definiciones/redes-neuronales.md)
 
-### 🔹 Ciencia de Datos
-- [Análisis de Datos](./definiciones/analisis-de-datos.md)
-- [Big Data](./definiciones/big-data.md)
+
+### 🔹 Formal Concept Analysis
+- [Relación Binaria](./definiciones/binary_relation.md)
 
 ---
 
