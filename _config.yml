@@ -2,5 +2,7 @@ title: "Mi Wiki"
 description: "Colección de definiciones"
 theme: jekyll-theme-cayman
 markdown: kramdown
+
 kramdown:
-  math_engine: mathjax
+  input: GFM
+  math_engine: mathjax 
