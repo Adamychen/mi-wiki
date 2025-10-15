@@ -1,6 +1,5 @@
 title: "Mi Wiki"
 description: "Colección de definiciones"
-theme: jekyll-theme-minimal
 markdown: kramdown
 
 kramdown:
