@@ -7,26 +7,9 @@ Este sitio está hecho con **GitHub Pages** y archivos **Markdown**.
 
 ## 📚 Índice
 
-### 🔹 Inteligencia Artificial
-- [¿Qué es la Inteligencia Artificial?](./definiciones/inteligencia-artificial.md)
-- [Machine Learning](./definiciones/machine-learning.md)
-- [Redes Neuronales](./definiciones/redes-neuronales.md)
 
 
 ### 🔹 Formal Concept Analysis
 - [Relación Binaria](./definiciones/binary_relation.md)
 
 ---
-
-## 🧩 Cómo contribuir
-
-Si quieres agregar una nueva definición o corregir algo:
-1. Haz un **fork** del repositorio.
-2. Crea un nuevo archivo Markdown dentro de la carpeta `definiciones/`.
-3. Envía un **pull request** con tus cambios.
-
----
-
-## 📄 Licencia
-
-Este proyecto se publica bajo la licencia [MIT](./LICENSE).
