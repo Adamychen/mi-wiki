@@ -1,25 +1,9 @@
-# 🧠 Mi Wiki de Conceptos
+# Starter kit for [Alembic](https://alembic.darn.es/)
 
-Bienvenido/a a **Mi Wiki**, un repositorio de definiciones, conceptos y notas sobre temas de tecnología, ciencia y más.  
-Este sitio está hecho con **GitHub Pages** y archivos **Markdown**.
+This is a very simple starting point if you wish to use Alembic [as a Jekyll theme gem](https://alembic.darn.es/#as-a-jekyll-theme) or as a [GitHub Pages remote theme](https://github.com/daviddarnes/alembic-kit/tree/remote-theme) (see `remote-theme` branch).
 
----
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit)
 
-## 📚 Índice
+or
 
-
-
-### 🔹 Formal Concept Analysis
-- [Relación Binaria](./definiciones/binary_relation.md)
-
----
-
-
-**The Cauchy-Schwarz Inequality**\
-$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
-
-{% raw %}
-$$
-e^{i\pi} + 1 = 0
-$$
-{% endraw %}
+**[Download the GitHub Pages kit](https://github.com/daviddarnes/alembic-kit/archive/remote-theme.zip)**
