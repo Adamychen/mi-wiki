@@ -8,4 +8,4 @@ highlighter: rouge
 include:
   - _includes/math.html
 
-theme: jekyll-theme-hacker
+theme: cayman
