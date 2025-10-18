@@ -7,6 +7,6 @@ theme: minima
 
 # Markdown y opciones de formato
 markdown: kramdown
-highlighter: rouge
+highlighter: cayman
 include:
   - _includes/math.html
