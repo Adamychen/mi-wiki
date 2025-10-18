@@ -2,11 +2,12 @@
 title: "Mi sitio en GitHub Pages"
 description: "Un sitio web creado con Jekyll y GitHub Pages"
 
-# Tema predeterminado de GitHub Pages
-theme: midnight
-
 # Markdown y opciones de formato
 markdown: kramdown
 highlighter: rouge
 include:
   - _includes/math.html
+
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme
