@@ -3,10 +3,10 @@ title: "Mi sitio en GitHub Pages"
 description: "Un sitio web creado con Jekyll y GitHub Pages"
 
 # Tema predeterminado de GitHub Pages
-theme: minima
+theme: midnight
 
 # Markdown y opciones de formato
 markdown: kramdown
-highlighter: cayman
+highlighter: rouge
 include:
   - _includes/math.html
