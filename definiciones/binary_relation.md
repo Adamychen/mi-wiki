@@ -10,3 +10,5 @@ If \( N = M \), we speak of a **binary relation on the set** \( M \).
 \( R^{-1} \) denotes the **inverse relation** to \( R \),  
 that is, the relation between \( N \) and \( M \) with  
 \( n \, R^{-1} \, m \iff m \, R \, n. \)
+
+{% include math.html %}
