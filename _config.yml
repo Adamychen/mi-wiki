@@ -1,0 +1,10 @@
+# Información básica del sitio
+title: "Mi sitio en GitHub Pages"
+description: "Un sitio web creado con Jekyll y GitHub Pages"
+
+# Tema predeterminado de GitHub Pages
+theme: minima
+
+# Markdown y opciones de formato
+markdown: kramdown
+highlighter: rouge
