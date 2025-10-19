@@ -8,6 +8,6 @@ highlighter: rouge
 include:
   - _includes/math.html
 
-remote_theme: benbalter/retlab
+remote_theme: Drassil/git-wiki-theme@master
 plugins:
   - jekyll-remote-theme
