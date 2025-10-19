@@ -1,3 +1,8 @@
+---
+published: true
+---
+
+
 # Relación Binaria
 
 ## Definición
